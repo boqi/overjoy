@@ -1,17 +1,20 @@
-OVERJOY [GIT] commit 4fb6cdf8: Add lists/CleanFiles.pl.
+OVERJOY [GIT] commit 8244fb06: Fix lists/ListSource.pm
 
 
 Path  : git
-Date  : 2012-05-07 23:30:35 +0800
+Date  : 2013-04-24 01:21:39 +0800
 Author: Afun Nahn
-Commit: 4fb6cdf802e5011a9d9d23b132b6bf64242abd26
+Commit: 8244fb060dc2253eacbefbaa191335f8fa15db07
 
-    Add lists/CleanFiles.pl.
+    Fix lists/ListSource.pm
 
 
 
- lists/CleanFiles.pl |   72 +++++++++++++++++++++++++++++++++++++++++++++++++++
- 1 file changed, 72 insertions(+)
+ ladies/bookmarks.html |11264 -------------------------------------------------
+ ladies/delicious.html | 6214 ---------------------------
+ lists/ListSource.pm   |   79 +-
+ websaver/tagfs.logs   | 5012 +++++++++++-----------
+ 4 files changed, 2547 insertions(+), 20022 deletions(-)
 
 ================================================================================
 
